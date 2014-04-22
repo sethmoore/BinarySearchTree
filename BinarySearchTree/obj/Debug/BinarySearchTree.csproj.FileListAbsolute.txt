@@ -1,0 +1,4 @@
+C:\Projects\C#\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.dll
+C:\Projects\C#\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Projects\C#\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.dll
+C:\Projects\C#\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
