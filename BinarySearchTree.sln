@@ -3,12 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{F8D7C5F1-DDDB-4307-9222-0825A357FC1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeTest", "BinaryTreeTest\BinaryTreeTest.csproj", "{3E237A60-2290-4FC4-9DF1-37A521527C73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E237A60-2290-4FC4-9DF1-37A521527C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E237A60-2290-4FC4-9DF1-37A521527C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E237A60-2290-4FC4-9DF1-37A521527C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E237A60-2290-4FC4-9DF1-37A521527C73}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F8D7C5F1-DDDB-4307-9222-0825A357FC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F8D7C5F1-DDDB-4307-9222-0825A357FC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8D7C5F1-DDDB-4307-9222-0825A357FC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU

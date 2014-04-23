@@ -17,7 +17,7 @@ namespace BinarySearchTree
     /// when no writes are happening, and writes should only block reading on the 
     /// nodes below it on the tre.
     /// </summary>
-    class BinaryTree {
+	public class BinaryTree {
 
         private Node _root;
         ReaderWriterLockSlim _nodeLock = new ReaderWriterLockSlim();
